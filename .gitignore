@@ -1,5 +1,5 @@
-# Processed data files
-processed/
+# data files
+data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
